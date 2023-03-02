@@ -1,5 +1,5 @@
 {
-  "name": "learn-js",
+  "name": "homework11",
   "version": "1.0.0",
   "description": "js examples for fast learning",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aneelia/learn-js.git"
+    "url": "git+https://github.com/AlPoludi/module11_homework.git"
   },
   "author": "aneelia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aneelia/learn-js/issues"
+    "url": "https://github.com/AlPoludi/module11_homework/issues"
   },
-  "homepage": "https://github.com/aneelia/learn-js#readme",
+  "homepage": "https://github.com/AlPoludi/module11_homework#readme",
   "devDependencies": {
     "@babel/core": "^7.10.4",
     "@babel/preset-env": "^7.10.4",
